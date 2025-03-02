@@ -58,3 +58,10 @@ The number in octal is 377
 - Support for additional bases (e.g., base-5, base-12).
 - Input validation to handle non-integer inputs gracefully.
 - Option to choose specific conversions (e.g., only binary or hexadecimal).
+
+
+
+## **How to "install" this tool**
+```bash
+git clone 
+```
