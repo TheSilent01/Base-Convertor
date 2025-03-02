@@ -63,5 +63,6 @@ The number in octal is 377
 
 ## **How to "install" this tool**
 ```bash
-git clone 
+git clone https://github.com/TheSilent01/Base-Convertor.git
+python3 base_convertor.py
 ```
