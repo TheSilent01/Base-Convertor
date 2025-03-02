@@ -1,8 +1,5 @@
 # Base-Convertor
-Here’s the description formatted in **Markdown (MD)** for better readability and structure:
-
 ---
-
 # **Base Converter: A Simple Python Tool for Number Conversion**
 
 This Python program is a versatile and user-friendly tool designed to convert a given decimal (base-10) number into its equivalent representations in **binary (base-2)**, **hexadecimal (base-16)**, and **octal (base-8)**. Whether you're a student learning number systems, a programmer working with different bases, or just curious about conversions, this tool provides a quick and efficient way to perform these transformations.
